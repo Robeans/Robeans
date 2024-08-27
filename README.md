@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robeans
 - 👀 I’m interested in vn dev
-- 🌱 I’m currently learning renpy drang and drop
+- 🌱 I’m currently learning renpy drang and drop, and RPGs in renpy
 - 💞️ I’m looking to collaborate on visual novels
 - 📫 How to reach me discord, .ingred
 
